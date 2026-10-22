@@ -6,3 +6,4 @@ Resource-Game Map Frontend
 
 # TODO
 1. Добавить на карту установку виртуального штаба
+2. Добавить ресурс Wolframite
